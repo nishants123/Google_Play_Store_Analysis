@@ -10,23 +10,27 @@ The objective is to analyze the Google Play Store dataset to identify trends and
 
 Task:-
 
-1. Data Cleaning:
+1. Data Collection:
+
+• Gathered the Google Play Store dataset, ensuring it contains relevant columns for analysis.
+
+2. Data Cleaning:
 
 • Handle missing values, remove duplicates, and standardize data formats.
 
-2. Exploratory Data Analysis (EDA):
+3. Exploratory Data Analysis (EDA):
 
 • Analyze app distribution across various categories, examine rating patterns, and explore relationships between key variables.
 
-3. Trend Analysis:
+4. Trend Analysis:
 
 • Identify top categories by downloads, compare the performance of free versus paid apps, and assess the impact of updates on performance.
 
-4. Correlation Analysis:
+5. Correlation Analysis:
 
 • Investigate relationships between key factors that influence app success.
 
-5. Actionable Insights & Recommendations:
+6. Actionable Insights & Recommendations:
 
 • Provide strategic recommendations based on findings, focusing on optimal pricing, category selection, and update strategies.
 
